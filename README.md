@@ -4,4 +4,4 @@
 
 <a href="project1/index.html" target="_blank">project1</a><br>
 
-<a href="p1p2/index.html" target="_blank">p1p2</a><br>
+<a href="portfolio1/index.html" target="_blank">p1p2</a><br>
