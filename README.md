@@ -9,4 +9,6 @@
 
 <a href="sample/index.AI" target="_blank">sample</a><br>
 
+<a href="sample/icons2.AI" target="_blank">sample2</a><br>
+
 
