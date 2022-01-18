@@ -7,7 +7,7 @@
 
 <a href="project2/index.html" target="_blank">project2</a><br>
 
-<a href="sample/icons2.Ai" target="_blank">sample</a><br>
+<a href="sample/index.html" target="_blank">sample</a><br>
 
 
 
