@@ -1,14 +1,6 @@
 ## WEBT 1340 Project Page
 
 
-<a href="project1/index.html" target="_blank">project1</a><br>
-
-<a href="portfolio1/index.html" target="_blank">portfoilio1</a><br>
-
-<a href="project2/index.html" target="_blank">project2</a><br>
-
-<a href="sample/index.html" target="_blank">sample</a><br>
-
 
 
 
