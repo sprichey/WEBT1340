@@ -16,7 +16,7 @@
      <li><a href="project3/stationery.ai">Project 3 - Cafe</a></li>
      <li><a href="project3/Portfolio2.ai">Project 3 - Portfolio Icons</a></li>
      <li><a href="project3/Portfolio2Logo.ai">Project 3 - Logo</a></li>
-     <li><a href="project3/Project3Invitation.ai">Project 3 - Invitation</a></li>
+     <li><a href="">Project 3 - Invitation</a></li>
 
 </ul>
  
