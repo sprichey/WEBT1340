@@ -14,7 +14,8 @@
 
 <ul>
      <li><a href="project3/stationery.ai">Project 3 - Cafe</a></li>
-     <li><a href=""></a>Project 3 - Portfolio</li>
+     <li><a href="project3/Porftfolio2.ai">Project 3 - Portfolio Icons</a></li>
+     <li><a href="project3/Portfolio2Logo.ai">Project 3 - Logo</a></li>
 
 </ul>
  
