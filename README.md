@@ -38,7 +38,7 @@
 
 <ul>
 
-<li><a href="project7/price-graph.ai">Price Graph</a></li>
-<li><a href="project7/favorites-graph.ai">Favorites Graph</a></li>
-<li><a href="project7/reasons-graph.ai">Reasons Graph</a></li>
-<li><a href="project7/coffee-producers.ai">Coffee Producers</a></li>
+<li><a href="project7/price-graph.ai">Project 7 - Price Graph</a></li>
+<li><a href="project7/favorites-graph.ai">Project 7 - Favorites Graph</a></li>
+<li><a href="project7/reasons-graph.ai">Project 7 - Reasons Graph</a></li>
+<li><a href="project7/coffee-producers.ai">Project 7 - Coffee Producers</a></li>
