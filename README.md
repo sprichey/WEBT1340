@@ -32,3 +32,13 @@
 
 
 </ul>
+
+
+<h2>Coffee</h2>
+
+<ul>
+
+<li><a href="project7/price-graph.ai">Price Graph</a></li>
+<li><a href="project7/favorites-graph.ai">Favorites Graph</a></li>
+<li><a href="project7/reasons-graph.ai">Reasons Graph</a></li>
+<li><a href="project7/coffee-producers.ai">Coffee Producers</a></li>
