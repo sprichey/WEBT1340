@@ -42,3 +42,6 @@
 <li><a href="project7/favorites-graph.ai">Project 7 - Favorites Graph</a></li>
 <li><a href="project7/reasons-graph.ai">Project 7 - Reasons Graph</a></li>
 <li><a href="project7/coffee-producers.ai">Project 7 - Coffee Producers</a></li>
+<li><a href="project7/energyproduction1.ai">Portfolio - Energy Production</a></li>
+<li><a href="project7/Renewable Energy Sources.ai">Portfolio - Renewable Energy Sources</a></li>
+<li><a href="project7/energyconsumption3.ai">Portfolio - Energy Consumption</a></li>
