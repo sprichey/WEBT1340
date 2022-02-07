@@ -45,3 +45,14 @@
 <li><a href="project7/energyproduction1.ai">Portfolio - Energy Production</a></li>
 <li><a href="project7/Renewable Energy Sources.ai">Portfolio - Renewable Energy Sources</a></li>
 <li><a href="project7/energyconsumption3.ai">Portfolio - Energy Consumption</a></li>
+
+
+<h2>Studio</h2>
+
+
+<ul>
+
+<li><a href="project8/site-design.ai">Project 8 - Studio</a></li>
+
+
+</ul>
