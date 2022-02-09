@@ -53,6 +53,7 @@
 <ul>
 
 <li><a href="project8/site-design.ai">Project 8 - Studio</a></li>
+<li><a href="project8/portfolio8.ai">Project 8 - Portfolio</a></li>
 
 
 </ul>
