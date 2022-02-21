@@ -63,7 +63,7 @@
 
 <ul>
 
-<li><a href="final/l">Final</a></li>
+<li><a href="final/">Final</a></li>
 
 
 
