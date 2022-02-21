@@ -63,8 +63,11 @@
 
 <ul>
 
-<li><a href="final/">Final</a></li>
-
+<li><a href="final/Home.ai">Final - Home</a></li>
+<li><a href="final/Life cycle.ai">Final - Life Cycle</a></li>
+<li><a href="final/Species.ai">Final - Species</a></li>
+<li><a href="final/Images.ai">Final - Images</a></li>
+<li><a href="final/Conservation.ai">Final - Conservation</a></li>
 
 
 </ul>
