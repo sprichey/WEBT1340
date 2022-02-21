@@ -63,11 +63,11 @@
 
 <ul>
 
-<li><a href="final/Home.html">Final - Home</a></li>
-<li><a href="final/Life_cycle.html">Final - Life Cycle</a></li>
-<li><a href="final/Species.html">Final - Species</a></li>
-<li><a href="final/Images.html">Final - Images</a></li>
-<li><a href="final/Conservation.html">Final - Conservation</a></li>
+<li><a href="">Final - Home</a></li>
+<li><a href="">Final - Life Cycle</a></li>
+<li><a href="">Final - Species</a></li>
+<li><a href="">Final - Images</a></li>
+<li><a href="">Final - Conservation</a></li>
 
 
 </ul>
