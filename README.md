@@ -64,7 +64,7 @@
 <ul>
 
 <li><a href="final/index.html">Final</a></li>
-<li><a href=https://xd.adobe.com/view/b9639213-b387-469a-9862-fcc37e5a49ad-ec30/"">XD</a></li>
+<li><a href="https://xd.adobe.com/view/b9639213-b387-469a-9862-fcc37e5a49ad-ec30/">XD</a></li>
 
 
 
